@@ -1,0 +1,25 @@
+{
+  "name": "simple-weather-app",
+  "version": "1.0.0",
+  "description": "learning node.js API calling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthew-Tuazon/Simple-Weather-App.git"
+  },
+  "author": "Matthew-Tuazon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matthew-Tuazon/Simple-Weather-App/issues"
+  },
+  "homepage": "https://github.com/Matthew-Tuazon/Simple-Weather-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "request": "^2.83.0",
+    "yargs": "^11.0.0"
+  }
+}
